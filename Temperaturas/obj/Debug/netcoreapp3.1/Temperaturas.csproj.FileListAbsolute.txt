@@ -1,0 +1,14 @@
+C:\Users\Joaco y Elias\Desktop\VISUAL STUDIO PROGRAMACION\Temperaturas\bin\Debug\netcoreapp3.1\Temperaturas.exe
+C:\Users\Joaco y Elias\Desktop\VISUAL STUDIO PROGRAMACION\Temperaturas\bin\Debug\netcoreapp3.1\Temperaturas.deps.json
+C:\Users\Joaco y Elias\Desktop\VISUAL STUDIO PROGRAMACION\Temperaturas\bin\Debug\netcoreapp3.1\Temperaturas.runtimeconfig.json
+C:\Users\Joaco y Elias\Desktop\VISUAL STUDIO PROGRAMACION\Temperaturas\bin\Debug\netcoreapp3.1\Temperaturas.runtimeconfig.dev.json
+C:\Users\Joaco y Elias\Desktop\VISUAL STUDIO PROGRAMACION\Temperaturas\bin\Debug\netcoreapp3.1\Temperaturas.dll
+C:\Users\Joaco y Elias\Desktop\VISUAL STUDIO PROGRAMACION\Temperaturas\bin\Debug\netcoreapp3.1\Temperaturas.pdb
+C:\Users\Joaco y Elias\Desktop\VISUAL STUDIO PROGRAMACION\Temperaturas\obj\Debug\netcoreapp3.1\Temperaturas.csproj.AssemblyReference.cache
+C:\Users\Joaco y Elias\Desktop\VISUAL STUDIO PROGRAMACION\Temperaturas\obj\Debug\netcoreapp3.1\Temperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaco y Elias\Desktop\VISUAL STUDIO PROGRAMACION\Temperaturas\obj\Debug\netcoreapp3.1\Temperaturas.AssemblyInfoInputs.cache
+C:\Users\Joaco y Elias\Desktop\VISUAL STUDIO PROGRAMACION\Temperaturas\obj\Debug\netcoreapp3.1\Temperaturas.AssemblyInfo.cs
+C:\Users\Joaco y Elias\Desktop\VISUAL STUDIO PROGRAMACION\Temperaturas\obj\Debug\netcoreapp3.1\Temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\Joaco y Elias\Desktop\VISUAL STUDIO PROGRAMACION\Temperaturas\obj\Debug\netcoreapp3.1\Temperaturas.dll
+C:\Users\Joaco y Elias\Desktop\VISUAL STUDIO PROGRAMACION\Temperaturas\obj\Debug\netcoreapp3.1\Temperaturas.pdb
+C:\Users\Joaco y Elias\Desktop\VISUAL STUDIO PROGRAMACION\Temperaturas\obj\Debug\netcoreapp3.1\Temperaturas.genruntimeconfig.cache
